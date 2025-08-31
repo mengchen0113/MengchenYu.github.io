@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -11,12 +11,12 @@ I received my Ph.D. in Mechanical Engineering from Hunan University in 2025, und
 
 Publications
 ======
-- [Physics-Informed Neural Networks for Length Scale Identification in Phase-Field Fracture Modeling] under review
-- [Adaptive Global-Local Surrogate Model Collaborative Updating for High-Dimensional Reliability Analysis] under review
-- [Physics-informed neural networks for V-notch stress intensity factor calculation](https://mermaid.js.org/](https://www.sciencedirect.com/science/article/pii/S0142112322005771)](https://www.sciencedirect.com/science/article/abs/pii/S0167844224004671) Theoretical and Applied Fracture Mechanics, 2024, 104717. 
-- [A deep learning-based fatigue crack growth rate measurement method using mobile phones](https://plotly.com/javascript/) International Journal of Fatigue, 2023, 167: 107327.
-- [Uncertainty Distribution Estimation Based on Unified Uncertainty Analysis Under Probabilistic, Evidence, Fuzzy, and Interval Uncertainties](https://plotly.com/javascript/](https://link.springer.com/chapter/10.1007/978-981-19-9398-5_23) International Conference on Mechanism and Machine Science. Singapore: Springer Nature Singapore, 2022: 409-425.
-- [Generalized Probability and Interval Hybrid Reliability Analysis Based on Two-stage Active Learning Kriging Model](https://qikan.cmes.org/jxgcxb/CN/10.3901/JME.2022.06.274)Journal of Mechanical Engineering, 2022, 58(6): 274-288.
+- Physics-Informed Neural Networks for Length Scale Identification in Phase-Field Fracture Modeling. under review
+- Adaptive Global-Local Surrogate Model Collaborative Updating for High-Dimensional Reliability Analysis. under review
+- [Physics-informed neural networks for V-notch stress intensity factor calculation.](https://www.sciencedirect.com/science/article/pii/S0142112322005771) Theoretical and Applied Fracture Mechanics, 2024, 104717. 
+- [A deep learning-based fatigue crack growth rate measurement method using mobile phones.](https://www.sciencedirect.com/science/article/abs/pii/S0167844224004671) International Journal of Fatigue, 2023, 167: 107327.
+- [Uncertainty Distribution Estimation Based on Unified Uncertainty Analysis Under Probabilistic, Evidence, Fuzzy, and Interval Uncertainties.](https://link.springer.com/chapter/10.1007/978-981-19-9398-5_23) International Conference on Mechanism and Machine Science. Singapore: Springer Nature Singapore, 2022: 409-425.
+- [Generalized Probability and Interval Hybrid Reliability Analysis Based on Two-stage Active Learning Kriging Model.](https://qikan.cmes.org/jxgcxb/CN/10.3901/JME.2022.06.274)Journal of Mechanical Engineering, 2022, 58(6): 274-288.
   
 Talks and Presentations
 ======
