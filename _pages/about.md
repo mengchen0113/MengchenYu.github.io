@@ -30,7 +30,8 @@ Talks and Presentations
 - Fatigue crack propagation rate test method and device based on deep learning. WO2024001467(A1)
 
 Teaching
-------
+======
+- Physics-Informed Neural Networks for Length Scale Identification in Phase-Field Fracture Modeling. under review
 - Teaching Assistant, Engineering Drawing, Apr 2019-Apr 2020
 - Teaching Assistant, Fundamentals of Mechanical Design, Mar 2020-Jun 2021
 - Teaching Assistant, Mechanical Design Course of Design, Jun 2021-Aug 2022
